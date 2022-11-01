@@ -27,7 +27,7 @@ Penjelasan : <br />
 ## Penutup
 Sekian dari tugas yang bisa Saya kerjakan, mohon maaf jika ada kesalahan atau kekurangan dalam penulisan kata di tugas kali ini. Saya ucapkan Terimakasih...<br /><br />
 
-**Nama**    : Rhendy Diki Nugraha
-**NIM**     : 312210150
-**Kelas**   : TI.22.A1
-**Dosen**   : Agung Nugroho, S.Kom, M.Kom
+**Nama**    : Rhendy Diki Nugraha<br />
+**NIM**     : 312210150<br />
+**Kelas**   : TI.22.A1<br />
+**Dosen**   : Agung Nugroho, S.Kom, M.Kom<br />
